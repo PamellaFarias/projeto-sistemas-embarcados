@@ -327,7 +327,11 @@ Obtém o ângulo atual do servo. (Nota: A funcionalidade de obtenção de ângul
 
 - `esp_err_t`: Código de erro. `ESP_OK` em caso de sucesso.
 
-<hr>
+# projeto-embarcados-parte_3
+
+| Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C6 | ESP32-H2 | ESP32-P4 | ESP32-S2 | ESP32-S3 |
+| ----------------- | ----- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+
 # Projeto de Controle de Servos com IMU para ESP32
 
 Este projeto utiliza um sensor IMU (Inertial Measurement Unit) para controlar dois servos. Os ângulos de Euler obtidos do sensor são convertidos e usados para definir as posições dos servos.
@@ -426,7 +430,7 @@ Para compilar e executar este projeto, siga os passos abaixo:
     ```
 
 ### Diagrama de Blocos
-![image](https://github.com/user-attachments/assets/defff552-cbf9-4579-ab90-19474b2b9347)
+![Diagrama](progt.png)
 
 ### Esquemático do Hardware
 ![Esquematico](https://github.com/GabrielAlbinoo/embarcados-parte-3/blob/master/esquematico.jpeg?raw=true)
