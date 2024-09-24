@@ -436,7 +436,8 @@ Para compilar e executar este projeto, siga os passos abaixo:
 ![Esquematico](https://github.com/GabrielAlbinoo/embarcados-parte-3/blob/master/esquematico.jpeg?raw=true)
 
 ### Máquina de Estados
-![Maquina de Estados](maquina_estado_pt3.png)
+![image](https://github.com/user-attachments/assets/d8c5abe2-8083-4179-9a03-eadd38112d1b)
+
 
 ## Uso
 Após a inicialização do sistema, os servos se moverão de acordo com os ângulos de Euler medidos pelo IMU. Certifique-se de que o sensor está corretamente conectado e configurado.
