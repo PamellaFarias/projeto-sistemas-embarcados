@@ -125,7 +125,8 @@ Este projeto fornece uma biblioteca para controlar servos motores usando o ESP32
     ```
 
 ### Diagrama de Blocos
-![Diagrama](Diagprog.png)
+![image](https://github.com/user-attachments/assets/f2d79fc7-746e-4ebb-ba94-d0c0130aea1c)
+
 
 ### Esquemático do Hardware
 <img style="width: 80%" src="https://github.com/user-attachments/assets/cad682db-b37a-47ef-9ee1-ebca67dc34c4">
@@ -425,7 +426,7 @@ Para compilar e executar este projeto, siga os passos abaixo:
     ```
 
 ### Diagrama de Blocos
-![Diagrama](progt.png)
+![image](https://github.com/user-attachments/assets/defff552-cbf9-4579-ab90-19474b2b9347)
 
 ### Esquemático do Hardware
 ![Esquematico](https://github.com/GabrielAlbinoo/embarcados-parte-3/blob/master/esquematico.jpeg?raw=true)
