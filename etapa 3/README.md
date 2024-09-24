@@ -103,6 +103,12 @@ Para compilar e executar este projeto, siga os passos abaixo:
 ### Diagrama de Blocos
 ![Diagrama](progt.png)
 
+### Esquemático do Hardware
+![Esquematico](https://github.com/GabrielAlbinoo/embarcados-parte-3/blob/master/esquematico.jpeg?raw=true)
+
+### Máquina de Estados
+![Maquina de Estados](maquina_estado_pt3.png)
+
 ## Uso
 Após a inicialização do sistema, os servos se moverão de acordo com os ângulos de Euler medidos pelo IMU. Certifique-se de que o sensor está corretamente conectado e configurado.
 
@@ -185,6 +191,9 @@ Este projeto utiliza várias APIs para interagir com o sensor IMU e controlar os
   - **Descrição**: Estrutura que contém a configuração do servo, incluindo o número do GPIO e o intervalo de ângulos.
 
 Essas APIs permitem a interação eficaz entre o software e o hardware, possibilitando o controle dos servos com base nos dados do sensor IMU.
+
+### Documentação
+[Documentação](https://docs.google.com/document/d/1ehZx7MRxHarA1N_aalE3D_Jn-jmAyVCmxsuGigXngUs/edit?usp=sharing)
 
 #### Equipe:
 
