@@ -430,7 +430,8 @@ Para compilar e executar este projeto, siga os passos abaixo:
     ```
 
 ### Diagrama de Blocos
-[![Diagrama](progt.png)](https://github.com/PamellaFarias/projeto-sistemas-embarcados/blob/main/etapa%203/progt.png)
+![image](https://github.com/user-attachments/assets/7409bb53-8869-42bf-969c-e486cbcaff70)
+
 
 ### Esquemático do Hardware
 ![Esquematico](https://github.com/GabrielAlbinoo/embarcados-parte-3/blob/master/esquematico.jpeg?raw=true)
